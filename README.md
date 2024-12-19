@@ -42,6 +42,6 @@ pip install pytest
 ```bash
 pytest
 ```
-## Автор
+## Mek
 
 aboba
